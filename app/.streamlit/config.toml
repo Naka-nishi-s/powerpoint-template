@@ -1,0 +1,9 @@
+[client]
+showErrorDetails = false
+toolbarMode = "viewer"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

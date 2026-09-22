@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "salesdb (docker)",
+      "Group": "Servers",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "salesdb",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
